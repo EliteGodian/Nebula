@@ -7,9 +7,6 @@
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [
-    "proxy"
-  ],
   "author": "mh mother",
   "license": "AGPL-3.0-only",
   "dependencies": {
